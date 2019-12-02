@@ -1,5 +1,5 @@
 # springboot-oauth2-mysql - Development
-In this project you will learn oauth2 example with mysql in springboot.
+In this project you will learn oauth2 example with mysql in springboot. This is development branch.
 
 You can create DB manually or it can be created automatically.
 
