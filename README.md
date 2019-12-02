@@ -1,4 +1,4 @@
-# springboot-oauth2-mysql
+# springboot-oauth2-mysql - Development
 In this project you will learn oauth2 example with mysql in springboot.
 
 You can create DB manually or it can be created automatically.
